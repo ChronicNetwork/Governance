@@ -1,0 +1,62 @@
+# Gov Prop 01: fp-1
+
+## Details: 
+
+### Allocate CHT Tokens From The Foundation Pool For Delegations To Initial Network Validators.
+
+### Token Amount: 55,500,000 CHT
+
+### Amounts & Locations of Delegations:
+
+*2,500,000 CHT delegated, 2.5 years vested:* [12,500,000]
+- chronicvaloper184utpxxzlgalyk9nlavxcg8fvpqctft2dhu4cy
+- chronicvaloper1m3sflptxal53ny3rzh9mf3sppjj3wgq6qztpp7
+- chronicvaloper1ugx0mq54hn02q86dlhtmt2ysn89qgjv8kfrjqk
+- chronicvaloper19fm339n2rw3qpvw0g429h0v8lkyr7erfgm99qr
+- chronicvaloper1furvpwqkd8kcarmpslrmhdltazyx5z2qp6ycty
+*1,000,000 CHT delegated, 2.5 years vested:* [43,000,000]
+- chronicvaloper1j4jc5fll4m2k3epnmds0v5580f0dkfesgts3jy
+- chronicvaloper1gwkxjc9rkgygvn3lqj9nv9t8cp99ttwch3453r
+- chronicvaloper1ahjjfn3jhmfytaevfdcfn6c0rtkqejaakzgshs
+- chronicvaloper1wd02ktcvpananlvd9u6jm3x3ap3vmw59kcfxf0
+- chronicvaloper1skeqnjwmjpv50n5lak2kzj6ujz59gu4msvq9ec
+- chronicvaloper176ku0pfgfmsse9alwv0skps7yq8xf7fc4lmsye
+- chronicvaloper18umznvpzh9kj78jyf2kuhhte43tjxlau7sw8ar
+- chronicvaloper1jxcd8vlhr3nlzegd98m2zm4amrma6tz5tq4sqc
+- chronicvaloper1whnc4s5qqe3uwsvpqk9qeyr999p7zq44264vw0
+- chronicvaloper1ectz65a29n6tsxwqeydgzzfgk3f0qwzcjwgejr
+- chronicvaloper1fd2cwf4fwxwk77lx85y9s8qa9hts5znkae50s4
+- chronicvaloper1x8czjpdy2x9svz0s3u9hdgqxd06ta39y49lnd3
+- chronicvaloper1g33zugzkdxtrhr3nqm29dcwdmudrrfp9y0897t
+- chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t
+- chronicvaloper1asp04l32g056gytca457usvy4fpyc0fvnw55v7
+- chronicvaloper1rwyn6w46u3067enhpdceqasg2um8dddtp9v3kx
+- chronicvaloper152074zlxfd42cxlyq09asy4za20w58pqxzkv06
+- chronicvaloper10zrye843ux4cwruwq9cku9fj2p7336mm98ev2a
+- chronicvaloper1py72mk7tqxvkwplujlp3c6h958uf4agpvngfpf
+- chronicvaloper1584fv0mmx8mhea67tx2lhjtvkyg47klucycz8n
+- chronicvaloper1vxcl4rvtcs6mglqkmg23m4lgzvhta4dg5e49n6
+- chronicvaloper1m7ynxd855ncahh9njehtflzz539aa3yktgp7ra
+- chronicvaloper1jvxrlcmyn55xryp8gl4dx3332mx37jaznfsx4x
+- chronicvaloper1r6d3mnmmjlkfr0rwv2r6s24w3ptxuug5kk796n
+- chronicvaloper1t40kwgejv2342wgqdjmljmzxtcsyfyty4a8xjz
+- chronicvaloper105rzlcracxe9r32h8flpn4kpw8waqueqfsne7g
+- chronicvaloper1uewdqsfm5vaz2fh3c32u8sef5keqww56cz6g59
+- chronicvaloper13w9zq85yuk8jud83h2qncrzlsfq9s48kwlqrhc
+- chronicvaloper1ph4v9wugnznx36qxr6m27ennq2pcxn9j428jkg
+- chronicvaloper1udeg0kfc3p933jg0ztrclehttw5ktcwdj6s2y8
+- chronicvaloper1me6nnxjn4p2u5vafnelzd57dfckjc72kkcrhwf
+- chronicvaloper1qlql9g97jt93d8g7s530dht756w37xmhled4zt
+- chronicvaloper1v3wjkc94lpq5g7k26d9y87ehh36fm4mx7ld6w6
+- chronicvaloper1pkpkgxlrdzzgur5h3v8sdrhs0yjpgdjdwqr2c6
+- chronicvaloper19f0w9svr905fhefusyx4z8sf83j6et0gdse0hy
+- chronicvaloper1y64wre98vqyfldmg626x0g34hll7ksdhmwcn6q
+- chronicvaloper136nrlhags2a78f2ue3au72clvnvqhk62kj9krx
+- chronicvaloper1tcj5327d080evnde94dmn2fclysgm6sr8qv2jq
+- chronicvaloper14uu0awcuwz5nltgt64e0dk37whd7qhdscvdk8u
+- chronicvaloper1sftpevfdtjzuyxy33lrqkdysvm3ftkan0hz3z6
+- chronicvaloper16ja4hfycdezepye23x396rkwvn2rhlznxs5t6x
+- chronicvaloper122df6dr7cux9t4232rdzmaer2avcyyl2tsn39d
+- chronicvaloper1l5u2zapzt4sz34xkwaytkkn90c6zrm3ctrc3ek
+
+Tokens for delegations will be transferred to a fresh wallet, which will then be used to delegate tokens to each individual validator. Links will be provided for bothe delegation & vesting for each validator address. This is a small gesture of our gratitude we can offer for those who have joined this journey so far.
