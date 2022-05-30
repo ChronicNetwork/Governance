@@ -1,0 +1,10 @@
+{
+    "title": "Expand-1",
+    "description": "Expand the current active validator set from 42 to 68.",
+    "changes": [{
+      "subspace": "baseapp",
+      "key": "maxvalidators",
+      "value": "68"
+      }
+    ]
+  }
