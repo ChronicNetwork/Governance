@@ -8,7 +8,7 @@ Governance proposal 05 labeled 'govfund-1' is a proposal to allocate Community P
 - Governance Type: Community Pool Fund
 - Param: Continued Decentralization Efforts
 - Token amount: 380,000 CHT , 100,000 CGAS
-- Wallet for community funding distribution: 
+- Wallet for community funding distribution: chronic15aqak6nt78k4pr4jnx9n9rypfdwqja48nrfvp6
 
 
 
@@ -18,6 +18,15 @@ This first community pool fund will allocate tokens for distribution between act
 
 Tokens will be distributed evenly between working memebers on a monthly schedule, specifically the 15th of every month. 
 380,000CHT (about .0025% of community pool CHT) & 100,000 CGAS (about .76% of community pool CGAS) will be allocated for this purpose.
+
+A multisig wallet between Austin(returniflost) & DJay (Mook) will recieve tokens used for delegations to governance working group members.
+
+multisig address : chronic15aqak6nt78k4pr4jnx9n9rypfdwqja48nrfvp6
+
+Wallet addresses: 
+Djay - chronic1ejqgx8pk6t8h7svurt89fjxd6yh0sraq74vtz8
+Austin - chronic1xxzwhhgt9hajh0urhu2kva867ru2r938570pqt
+
 
 
 
