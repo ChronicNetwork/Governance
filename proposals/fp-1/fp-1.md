@@ -14,6 +14,7 @@
 - chronicvaloper1ugx0mq54hn02q86dlhtmt2ysn89qgjv8kfrjqk
 - chronicvaloper19fm339n2rw3qpvw0g429h0v8lkyr7erfgm99qr
 - chronicvaloper1furvpwqkd8kcarmpslrmhdltazyx5z2qp6ycty
+
 *1,000,000 CHT delegated, 2.5 years vested:* [43,000,000]
 - chronicvaloper1j4jc5fll4m2k3epnmds0v5580f0dkfesgts3jy
 - chronicvaloper1gwkxjc9rkgygvn3lqj9nv9t8cp99ttwch3453r
