@@ -1,5 +1,5 @@
 {
-  "title": "Community Pool Spend-01",
+  "title": "Community Pool Spend",
   "description": "This is a proposal to fund a multisig wallet for the purpose of covering on-chain relayer operational fees xiti & returniflost will be signers for the multisig, and will work together along relayer operators to create feegrant operations.More info cand found here https://github.com/ChronicNetwork/Governance/tree/main/proposals/05%20-%20Create%20Feegrant%20Wallet%20for%20IBC%20relayer%20Operations ",
   "recipient": "chronic1xrddp5wmnz4jaj27h2cyu89g40zxmkjeulccpr",
   "amount": "500000000000ucgas",
