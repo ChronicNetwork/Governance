@@ -1,0 +1,17 @@
+{
+  "title": "Gov Prop 05 Create Feegrant Wallet for IBC relayers",
+  "description": "This is a proposal to fund a multisig wallet for the purpose of covering on-chain relayer operational fees. xiti & returniflost will be signers for the multisig, and will work together along relayer operators to create feegrant operations.",
+  "recipient": "chronic1xrddp5wmnz4jaj27h2cyu89g40zxmkjeulccpr",
+  "amount": [
+    {
+      "denom": "ucgas",
+      "amount": "500000000000"
+    }
+  ],
+  "deposit": [
+    {
+      "denom": "ucht",
+      "amount": "5000000000"
+    }
+  ]
+}
