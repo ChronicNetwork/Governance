@@ -10,7 +10,7 @@ The Smart Contract, to be deployed on chain will include 1 governance voting pow
 
 - Text Based proposal: +50% quorum, +50% consensus 
 
-- Send Tx Message[from,to]: +50% quorum, 66% consensus
+- Send Tx Message[from,to]: +50% quorum, +50% consensus [EDITED Wed. August 3rd].
 
 Both functions in order to proceed will need 50% of the all potential addresses with voting power. Sending  escrowed tokens will need more than 2/3rds of all potential addresses approval before executing.
 
