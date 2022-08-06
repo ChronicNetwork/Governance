@@ -1,4 +1,4 @@
-# Gov Prop 4: Create Presale Escrow Smart Contract 
+# Gov Prop 6: Create Presale Escrow Smart Contract 
 
 ## Details: This is a text based proposal to involve presale participants in the process of moving forward of returning donations for CHT.
 
