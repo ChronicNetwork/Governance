@@ -17,7 +17,7 @@ Attached are two links, one being the v1.0.0 release of DAO-DAO's smart contract
 - [DAO DAO v1 official release](https://github.com/DA0-DA0/dao-contracts/releases/tag/v1.0.0) 
 - [Chronic Network Code ID Log](https://github.com/ChronicNetwork/documentation/blob/main/smart-contracts/Code-ID%20Log.csv) 
 
-With this information, one is able to accurately verify that the smart contracts that are being used have been audited and are identical to the ones built by the DA0-DA0 team.
+With this information, one is able to accurately verify that the smart contracts that are being used have been audited and are identical to the ones built by the DA0-DA0 team. HUGE respect to those contributing to DA0-DA0 :) 
 
 This wiki describes the process on [how to verify smart contracts](https://github.com/DA0-DA0/dao-contracts/wiki/Verifying-DAO-DAO-v1-contracts). 
 
@@ -51,7 +51,7 @@ Testing of IBC channel functions will take place to be able to have confidence t
 
 This will help confirm the functionality is expected! 
 
-## 5. Mock Trail With JunoMint Tokens
+## 5. Mock Trial With JunoMint Tokens
 
 A mock trial of instantiating a DAO that has: 
 - 1 voting power per participant
