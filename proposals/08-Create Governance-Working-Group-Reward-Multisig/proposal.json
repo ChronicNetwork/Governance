@@ -1,5 +1,6 @@
 {
     "title": "Chronic Governance Working Group - Q3 2022",
+    "description": "Governance, arguable is one of the most important factors of Chronic Chain and cosmosSDK based network. It is sandbox for where community members can participate and truly impact nessesary areas within their communities. This community pool fund proposal allocates tokens for distribution to a multisig including trustworthy governance group members. All of the deliverables and timelines for Phase 1 of the Governance Working Group can be found at this link, https://github.com/ChronicNetwork/Governance/blob/main/proposals/08-Create%20Governance-Working-Group-Reward-Multisig/Chronic-Governance-Deliverables-Project-Tracking.csv",
     "recipient": "chronic1xrddp5wmnz4jaj27h2cyu89g40zxmkjeulccpr",
     "amount": [
       {
