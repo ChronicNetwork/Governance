@@ -16,19 +16,19 @@ Governance, arguable is one of the most important factors of Chronic Chain & cos
 
 This community pool fund proposal allocates tokens for distribution to a multisig including trustworthy governance group members. 
 
-All of the deliverables & timelines for Phase 1 of the Governance Working Group can be found here: 
+All of the deliverables & timelines for Phase 1 of the Governance Working Group can be found here: https://github.com/ChronicNetwork/Governance/blob/main/proposals/08-Create%20Governance-Working-Group-Reward-Multisig/Chronic-Governance-Deliverables-Project-Tracking.csv
 
 Tokens will be distributed based off of the concept of retroactive funding. Huge shoutout to the DAO-DAO team for recently sharing their insights on this strategy. This concept gives protocols a way to support the supporters of the protocol itself, in a way that is decentralized and open to the entire community to vote to decide who gets rewarded for their past participation.
 
 
-A wallet managed by Austin(returniflost), @xiti, & @Mook will recieve tokens used for delegations to governance working group members, & after the end of each month each member will be able to nominate other members for the contributions that they have done!
+A wallet managed by Austin(returniflost) & @xiti, will recieve tokens used for delegations to governance working group members, & after the end of each month each member will be able to nominate other members for the contributions that they have done!
 
 
 
 Wallet addresses: 
 Austin - 
 Xiti - 
-Mook - 
+ 
 
 
 
