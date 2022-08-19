@@ -1,11 +1,15 @@
 {
     "title": "Chronic Governance Working Group - Q3 2022",
-    "recipient": "chronic15aqak6nt78k4pr4jnx9n9rypfdwqja48nrfvp6",
+    "recipient": "chronic1xrddp5wmnz4jaj27h2cyu89g40zxmkjeulccpr",
     "amount": [
       {
         "denom": "ucht",
         "amount": "380000000000"
-      }
+      },
+      {
+        "denom": "ucgas",
+        "amount": "100000000000"
+      },
     ],
     "deposit": [
       {
