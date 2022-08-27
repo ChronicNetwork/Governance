@@ -4,8 +4,8 @@ This document goes over the sequence taking place for testing the functionality 
 
 ### The steps are as follows:
 
-1. Upload & Instantiate Audited DA0-DA0 smart contracts
-2. Test Executing Message Proposal & Voting for DAO
+1. ~~Upload & Instantiate Audited DA0-DA0 smart contracts~~ 
+2. ~~Test Executing Message Proposal & Voting for DAO
 3. Deploy IBC Channels (Cosmos Hub, Juno Network, Osmosis Zone, Secret Network)
 4. Test Functionality of IBC channels + DAO Treasury
 5. Mock Trial of intended action for DAO.
